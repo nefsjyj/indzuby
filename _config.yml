@@ -3,8 +3,8 @@ email: infossm@samsung.com
 description: |
   SAMSUNG SOFTWARE MEMBERSHIP 소프트웨어 개발자,
   그꿈이 시작되는 곳 삼성소프트웨어멤버십
-baseurl: ''
-url: 'http://www.secmem.org'
+baseurl: 'indzuby'
+url: 'https://nefsjyj.github.io'
 
 
 repository: infossm/infossm.github.io
@@ -51,9 +51,8 @@ keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
 author: infossm@samsung.com
-image: '/assets/images/main_home_bg_wide.png'
+image: '{{ site.baseurl }}/assets/images/main_home_bg_wide.png'
 asset_url: /assets
-baseurl: /indzuby
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 #google_analytics:
