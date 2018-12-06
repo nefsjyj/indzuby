@@ -3,7 +3,7 @@ email: infossm@samsung.com
 description: |
   SAMSUNG SOFTWARE MEMBERSHIP 소프트웨어 개발자,
   그꿈이 시작되는 곳 삼성소프트웨어멤버십
-baseurl: 'indzuby'
+baseurl: '/indzuby'
 url: 'https://nefsjyj.github.io'
 
 
