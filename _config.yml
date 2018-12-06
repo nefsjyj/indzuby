@@ -53,6 +53,7 @@ github: [metadata]
 author: infossm@samsung.com
 image: '/assets/images/main_home_bg_wide.png'
 asset_url: /assets
+baseurl: /indzuby
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 #google_analytics:
